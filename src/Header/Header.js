@@ -3,7 +3,7 @@ import "./Header.css";
 export default function Header() {
   return (
     <div>
-      <h2>Email List Analysis Business Requests</h2>
+      <h2>Global Terrorism Analysis Business Requests</h2>
 
       <table>
         <tr>
@@ -77,7 +77,7 @@ export default function Header() {
 
           <td>
             <a
-              href="https://github.com/JohnKimaiyo/email-marketing-react-app/blob/main/src/Power%20BI/Email%20List%20Dashboard.pdf"
+              href="https://github.com/JohnKimaiyo/Global-Terrorsim-Data-Analysis/blob/main/src/Power%20BI%20Dashboard/Global%20Terrorist%20Dashboard.pdf"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -110,7 +110,7 @@ export default function Header() {
           <td>Check out my Power BI Sales Insights Dashbord File</td>
           <td>
             <a
-              href="https://github.com/JohnKimaiyo/email-marketing-react-app/blob/main/src/Power%20BI/Email%20List%20Dashboard.pbix"
+              href="https://github.com/JohnKimaiyo/Global-Terrorsim-Data-Analysis/blob/main/src/Power%20BI%20Dashboard/Global%20Terrorsim.pbit"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -123,7 +123,7 @@ export default function Header() {
           <td>Checkout sql statement to clean up the data</td>
           <td>
             <a
-              href="https://github.com/JohnKimaiyo/email-marketing-react-app/blob/main/src/SQL%20Scripts/dbo.sql"
+              href="https://github.com/JohnKimaiyo/Global-Terrorsim-Data-Analysis/blob/main/src/SQL%20Script/dbo.sql"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -132,8 +132,8 @@ export default function Header() {
           </td>
         </tr>
         <tr>
-          <td> Email  List Source Files </td>
-          <td> Email List Kaggle Dataset</td>
+          <td> Global Terrorism Source Files </td>
+          <td> Global Terrorism List Kaggle Dataset</td>
           <td>
             <a
               href=""
@@ -145,8 +145,8 @@ export default function Header() {
           </td>
         </tr>
         <tr>
-          <td> Email List JSON Files </td>
-          <td> Email List JSON Dataset</td>
+          <td>Global Terrorism JSON Files </td>
+          <td> Global Terrorism Dataset</td>
           <td>
             <a
               href="https://github.com/JohnKimaiyo/email-marketing-react-app/blob/main/src/Source%20Files/email.json"
