@@ -149,7 +149,7 @@ export default function Header() {
           <td> Global Terrorism Dataset</td>
           <td>
             <a
-              href="https://github.com/JohnKimaiyo/email-marketing-react-app/blob/main/src/Source%20Files/email.json"
+              href="https://github.com/JohnKimaiyo/Global-Terrorsim-Data-Analysis/blob/main/src/Source%20Files/globalterrorism.json"
               target="_blank"
               rel="noopener noreferrer"
             >
